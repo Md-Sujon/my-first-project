@@ -1,0 +1,19 @@
+.blog{
+    border:7px solid red;
+    margin: 14px;
+    border-radius: 20px;
+    width: 30%;
+  display:inline-block;
+    
+  
+               }
+               h1{
+                   text-align: center;
+                   color: red;
+               }
+               p{
+                   text-align: justify;
+                   padding-left: 10px;
+                   padding-right: 10px;
+               }
+               
